@@ -1,0 +1,17 @@
+div{
+    background-color: black;
+    color: white;
+    width: 35%;
+}
+div .text{
+    margin: 20px;
+    margin-left: 10px;
+    margin-bottom: 0;
+}
+div button{
+    margin: 20px;
+    margin-left: 10px;
+}
+div h1{
+    padding-top:10px;
+}

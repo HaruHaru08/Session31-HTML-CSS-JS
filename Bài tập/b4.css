@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    height: 200px;
+    padding-left: 10px;
+}
+.box{
+    display: none;
+}
+.hidden-box{
+    display: flex;
+    background-color: #ffffff;
+    width: 40%;
+    height: 70px;
+    margin-left: 450px;
+    border-radius: 3px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.hidden-box i{
+    position: absolute;
+    top:6px;
+    right:10px;
+}
